@@ -249,4 +249,4 @@ This repository serves as the official landing page for Clipchamp. The software 
 **Get the most recent version of Clipchamp today!**
 
 ---
-**Last updated:** 2026-10-26 20:50:40 UTC
+**Last updated:** 2026-10-27 00:11:07 UTC
